@@ -1,2 +1,2 @@
 # Readme
-A comparison between Non-Buffered and Buffered.
+A comparison between Unbuffered and Buffered.
