@@ -1,6 +1,2 @@
 # Readme
 A comparison between Unbuffered and Buffered.
-
-
-
-### Credits
